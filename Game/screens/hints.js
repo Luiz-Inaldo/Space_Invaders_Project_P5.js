@@ -16,9 +16,6 @@ function textHowToPlay(){
   noStroke();
   fill(255);
   text('how to play', 405, 100);
-  
-  // img directional
-  image(imageHint1, 30, 200);
 
   // hint 1
   textSize(20);

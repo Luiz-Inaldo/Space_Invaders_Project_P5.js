@@ -1,12 +1,9 @@
-let screen = 'how_to_play';
+let screen = 'main menu';
 let menuSelection = 1;
 let soundPrincipal = 'on';
 
 function setup() {
   createCanvas(700, 700);
-  /*for(let i = 0; i < 30; i++){
-    enemies.push(new Alien())
-  }*/
 }
 
 function draw() {
